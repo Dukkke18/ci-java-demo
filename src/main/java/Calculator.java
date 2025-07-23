@@ -23,5 +23,6 @@ public class Calculator {
         System.out.println("Subtract: " + subtract(5, 3));
         System.out.println("Multiply: " + multiply(5, 3));
         System.out.println("Divide: " + divide(5, 3));
+        System.out.println("CI is running...");
     }
 }
