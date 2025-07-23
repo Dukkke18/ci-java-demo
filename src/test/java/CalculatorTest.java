@@ -1,4 +1,4 @@
-%SZ2416125张可
+
 import org.junit.Test;
 import static org.junit.Assert.*;
 
